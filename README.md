@@ -37,9 +37,9 @@ JavaScript (ES6+), React, Redux, адаптивная верстка, работ
 🌐 HTML5 / CSS3  
 🎨 Canvas, Bootstrap 5, Materialize CSS  
 🔧 Git, Postman, REST API  
-📦 Webpack
+📦 Webpack  
 🐍 Python (изучаю)  
-🗄 SQL (изучаю)
+🗄 SQL (изучаю)  
 
 В планах: TypeScript, PHP.
 
